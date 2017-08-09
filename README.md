@@ -1,5 +1,6 @@
 # census-batch-geocoder
 Uses the censusgecode wrapper and the Census Bureau's API to batch geocode text files of US addresses
+
 Frank Donnelly, Geospatial Data Librarian, Baruch CUNY
 francis.donnelly@baruch.cuny.edu
 
